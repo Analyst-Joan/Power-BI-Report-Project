@@ -1,6 +1,6 @@
 # PetMind Retail Stores – Sales Analysis
 
-![](Pet_Store.png)
+![](Pet_Store_img.PNG)
 
 [Photo Credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.petsuppliesplus.com%2Fstore%2Fva%2Fmanassas%2F4131-manassas%2F4131&psig=AOvVaw2uSccLxLbVaOLUiV8Fl8T_&ust=1681957241333000&source=images&cd=vfe&ved=0CBMQjhxqFwoTCOiQ05HxtP4CFQAAAAAdAAAAABAR)
 
