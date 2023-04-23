@@ -102,7 +102,7 @@ From the Plot above, we can see that repeat purchases had a positive impact on s
 
 -	The sales distribution shows a wide variation in the difference between categories with the highest repeat purchase & total sales amount and categories with lowest records.
 
--	There is a positive between repeat purchases and sales.
+-	There is a positive relationship between repeat purchases and sales.
 
 ## Recommendations:
 Although the strategy of repeated sales of their Pet products by the PetMind team appears to lead to increased sales, we would recommend the following:
